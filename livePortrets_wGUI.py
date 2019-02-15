@@ -413,11 +413,5 @@ createControlWindow(controlWindowName, imageTrackbarName, videoTrackbarName, pro
 
 cv2.waitKey(0)
 cv2.destroyAllWindows() 
-    
 
-
-# In[ ]:
-
-
-os.mkdir("newFolder")
 
